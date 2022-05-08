@@ -1,2 +1,2 @@
 # WAEPack
-A Minecraft Resource Pack based on J0Pack
+A community maintained continuation of [J0Pack](https://www.planetminecraft.com/texture-pack/j0pack/)
