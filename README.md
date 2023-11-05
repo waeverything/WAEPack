@@ -6,5 +6,6 @@ A community maintained continuation of [J0Pack](https://www.planetminecraft.com/
 - Redo GUI
 - New command block textures
 - flowing water texture
+- fix zombified piglin textures
 - ???
 - Profit
