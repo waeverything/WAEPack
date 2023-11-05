@@ -1,5 +1,7 @@
 # WAEPack
-A community maintained continuation of [J0Pack](https://www.planetminecraft.com/texture-pack/j0pack/)
+A community maintained continuation of [J0Pack](https://www.planetminecraft.com/texture-pack/j0pack/).
+
+Currently supported Minecraft version: 1.20.2
 
 ## TODO
 - Better oak sapling texture
