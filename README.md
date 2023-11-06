@@ -9,7 +9,7 @@ Currently supported Minecraft version: 1.20.2
 - broken iron golem cracked texture
 - Redo GUI
 - New command block textures
-- flowing water texture
+- fix flowing water texture loop
 - fix zombified piglin textures
 - ???
 - Profit
