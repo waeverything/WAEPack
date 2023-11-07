@@ -13,3 +13,11 @@ Currently supported Minecraft version: 1.20.2
 - fix zombified piglin textures
 - ???
 - Profit
+
+
+# Painters
+
+(painting art contributors:
+
+- Jipsu97
+- Pavex
