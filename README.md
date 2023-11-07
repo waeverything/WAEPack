@@ -17,7 +17,7 @@ Currently supported Minecraft version: 1.20.2
 
 # Painters
 
-(painting art contributors):
+Painting art contributors:
 
 - Jipsu97
 - Pavex
