@@ -30,3 +30,4 @@ Painting art contributors:
 - Pavex
 - J0P
 - Joona
+- Jeeukko
