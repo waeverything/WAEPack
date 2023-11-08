@@ -12,7 +12,6 @@ Currently supported Minecraft version: 1.20.2
 - Redo GUI
 - New command block textures
 - fix flowing water texture loop
-- fix zombified piglin textures
 - ???
 - Profit
 
