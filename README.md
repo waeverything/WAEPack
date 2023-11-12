@@ -10,7 +10,9 @@ A community maintained continuation of [J0Pack](https://www.planetminecraft.com/
 In addition to the base pack there's also `waepack-models` which contains optional 3D textures for blocks like ladders, lily pads, iron bars and more.
 
 ## Download
-There isn't currently a downloadable package available, yet. If you want to try the development version of the pack you can clone/download the repository. and put the pack folder's into your Minecraft instance's resourcepack directory.
+The latest stable release is available on the [Releases](https://github.com/waeverything/waepack/releases) page.
+
+If you want to try the development version of the pack you can clone/download the repository and put the pack folder's into your Minecraft instance's resourcepack directory.
 
 ## TODO
 - Better oak sapling texture
