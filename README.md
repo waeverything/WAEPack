@@ -3,6 +3,7 @@
 ![Minecraft Version Badge](https://img.shields.io/badge/Minecraft-1.20.2-%230090ff?style=for-the-badge)
 ![Pack Format Badge](https://img.shields.io/badge/Pack_Format-18-%230090ff?style=for-the-badge)
 ![Repository Size Badge](https://img.shields.io/github/repo-size/waeverything/waepack?style=for-the-badge&color=%230090ff)
+![Latest Release Badge](https://img.shields.io/github/v/release/waeverything/waepack?include_prereleases&style=for-the-badge&color=%230090ff)
 
 # WAEPack
 A community maintained continuation of [J0Pack](https://www.planetminecraft.com/texture-pack/j0pack/).
