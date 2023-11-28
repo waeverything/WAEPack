@@ -1,8 +1,8 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "block/powered_rail",
-		"particle": "block/powered_rail"
+		"0": "block/powered_rail_on",
+		"particle": "block/powered_rail_on"
 	},
 	"elements": [
 		{
