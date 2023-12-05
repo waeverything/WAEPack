@@ -16,7 +16,6 @@ The latest stable release is available on the [Releases](https://github.com/waev
 If you want to try the development version of the pack you can clone/download the repository and put the pack folder's into your Minecraft instance's resourcepack directory.
 
 ## TODO
-- Better oak sapling texture
 - add missing sapling textures
 - Fix broken iron golem cracked texture
 - Redo GUI
