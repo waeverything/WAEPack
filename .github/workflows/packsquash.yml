@@ -1,0 +1,34 @@
+name: Optimize resource pack
+on:
+  push:
+    tags:
+      - '**'
+jobs:
+  packsquash:
+    name: Optimize resource pack
+    runs-on: ubuntu-latest
+    steps:
+      - name: Clone repository
+        uses: actions/checkout@v3
+        with:
+          fetch-depth: 0 # A non-shallow repository clone is required
+      - name: Run PackSquash (waepack)
+        uses: ComunidadAylas/PackSquash-action@v4
+        with:
+          packsquash_version: latest
+          options: |
+            pack_directory = 'waepack'
+            output_file_path = '/tmp/waepack.zip'
+      - name: Run PackSquash (waepack-models)
+        uses: ComunidadAylas/PackSquash-action@v4
+        with:
+          packsquash_version: latest
+          options: |
+            pack_directory = 'waepack-models'
+            output_file_path = '/tmp/waepack-models.zip'
+      - name: Create release
+        uses: softprops/action-gh-release@v1
+        with:
+          files: |
+            /tmp/waepack.zip
+            /tmp/waepack-models.zip
