@@ -6,7 +6,7 @@
 ![Latest Release Badge](https://img.shields.io/github/v/release/waeverything/waepack?include_prereleases&style=for-the-badge&color=%230090ff)
 
 # WAEPack
-A community maintained continuation of [J0Pack](https://www.planetminecraft.com/texture-pack/j0pack/).
+A community maintained continuation of the now discontinued [J0Pack](https://www.planetminecraft.com/texture-pack/j0pack/), WAEPack brings a soft and unique new look to the game.
 
 In addition to the base pack there's also `waepack-models` which contains optional 3D textures for blocks like ladders, lily pads, iron bars and more.
 
