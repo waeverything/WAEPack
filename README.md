@@ -1,5 +1,6 @@
 ![Banner](/src/banner.png)
 
+![Modrinth Badge](https://img.shields.io/badge/View%20on%20Modrinth-%2316181c?style=for-the-badge&logo=modrinth&link=https%3A%2F%2Fmodrinth.com%2Fresourcepack%2Fwaepack)
 ![Minecraft Version Badge](https://img.shields.io/badge/Minecraft-1.20.3-%230090ff?style=for-the-badge)
 ![Pack Format Badge](https://img.shields.io/badge/Pack_Format-22-%230090ff?style=for-the-badge)
 ![Repository Size Badge](https://img.shields.io/github/repo-size/waeverything/waepack?style=for-the-badge&color=%230090ff)
