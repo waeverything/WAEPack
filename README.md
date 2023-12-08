@@ -14,4 +14,4 @@ In addition to the base pack there's also `waepack-models` which contains option
 ## Download
 The latest stable release is available on the [Releases](https://github.com/waeverything/waepack/releases) page.
 
-If you want to try the development version of the pack you can clone/download the repository and put the pack folder's into your Minecraft instance's resourcepack directory.
+If you want to try the development version of the pack you can clone/download the repository and put the pack folders into your Minecraft instance's resourcepack directory.
