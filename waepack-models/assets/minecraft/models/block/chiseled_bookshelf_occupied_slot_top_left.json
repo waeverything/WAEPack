@@ -1,0 +1,46 @@
+{
+	"credit": "Made with Blockbench",
+	"textures": {
+		"book_cover": "block/chiseled_bookshelf_occupied",
+		"page": "block/page"
+	},
+	"elements": [
+		{
+			"name": "front",
+			"from": [11, 9, 1],
+			"to": [15, 14, 2],
+			"faces": {
+				"up":    {"uv": [1, 2, 5, 3], "texture": "#book_cover", "cullface": "north", "rotation": 180},
+				"north": { "texture": "#book_cover", "cullface": "north" },
+				"west":  {"uv": [4, 2, 5, 7], "texture": "#book_cover", "cullface": "north"}
+			}
+		},
+		{
+			"name": "left",
+			"from": [14, 9, 2],
+			"to": [15, 14, 6],
+			"faces": {
+				"up":   {"uv": [1, 2, 2, 3], "texture": "#book_cover", "cullface": "north", "rotation": 180},
+				"west": {"uv": [1, 2, 2, 7], "texture": "#book_cover", "cullface": "north"}
+			}
+		},
+		{
+			"name": "right",
+			"from": [11, 9, 2],
+			"to": [12, 14, 6],
+			"faces": {
+				"up":   {"uv": [4, 2, 5, 3], "texture": "#book_cover", "cullface": "north", "rotation": 180},
+				"west": {"uv": [4, 2, 5, 7], "texture": "#book_cover", "cullface": "north"},
+				"east": {"uv": [4, 2, 5, 7], "texture": "#book_cover", "cullface": "north"}
+			}
+		},
+		{
+			"name": "page",
+			"from": [12, 13.75, 2],
+			"to": [14, 13.75, 5.75],
+			"faces": {
+				"up": {"uv": [7, 1.25, 9, 5], "texture": "#page", "cullface": "north", "rotation": 180}
+			}
+		}
+	]
+}
