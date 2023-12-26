@@ -9,7 +9,10 @@
 # WAEPack
 A community maintained continuation of the now discontinued [J0Pack](https://www.planetminecraft.com/texture-pack/j0pack/), WAEPack brings a soft and unique new look to the game.
 
-In addition to the base pack there's also `waepack-models` which contains optional 3D textures for blocks like ladders, lily pads, iron bars and more.
+## Packs
+- `waepack (required)` - Main pack
+- `waepack-models (optional)` - Various 3D textures for blocks like ladders, lily pads, iron bars and more.
+- `waepack-dark-gui (optional)` - Coming Soon(tm)
 
 ## Download
 The latest stable release is available on the [Releases](https://github.com/waeverything/waepack/releases) page.
