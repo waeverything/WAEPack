@@ -1,7 +1,6 @@
 ![Banner](/src/banner.png)
 
 [<img src="https://img.shields.io/badge/View%20on%20Modrinth-%2316181c?style=for-the-badge&logo=modrinth">](https://modrinth.com/resourcepack/waepack)
-![Minecraft Version Badge](https://img.shields.io/badge/Minecraft-1.20.3-%230090ff?style=for-the-badge)
 [<img src="https://img.shields.io/badge/Pack_Format-22-%230090ff?style=for-the-badge">](https://minecraft.wiki/w/Pack_format)
 ![Repository Size Badge](https://img.shields.io/github/repo-size/waeverything/waepack?style=for-the-badge&color=%230090ff)
 [<img src="https://img.shields.io/github/v/release/waeverything/waepack?include_prereleases&style=for-the-badge&color=%230090ff">](https://github.com/waeverything/WAEPack/releases)
@@ -28,4 +27,4 @@ If you want to try the development version of the pack you can clone/download th
 Textures can be made using any software though free software such as GIMP is prefered. The project files should be put into their respective folders inside the `src` folder.
 
 ## Models
-3D models are made using Blockbench. The project files should be saved into `src/models` folder in case they need to be adjusted in the future.
+3D models are made using [Blockbench](https://www.blockbench.net/). The project files should be saved into `src/models` folder in case they need to be adjusted in the future.
