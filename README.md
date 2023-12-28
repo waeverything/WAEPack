@@ -9,6 +9,7 @@
 # WAEPack
 A community maintained continuation of the now discontinued [J0Pack](https://www.planetminecraft.com/texture-pack/j0pack/), WAEPack brings a soft and unique new look to the game.
 
+This README is written towards pack developers. See the [Modrinth page](https://modrinth.com/resourcepack/waepack) for a more user friendly version.
 ## Folder structure
     .
     ├── src                     # Source files for the textures and models such as GIMP and Blockbench project files.
@@ -22,3 +23,9 @@ A community maintained continuation of the now discontinued [J0Pack](https://www
 The latest stable release is available on the [Releases](https://github.com/waeverything/waepack/releases) page.
 
 If you want to try the development version of the pack you can clone/download the repository and put the pack folders into your Minecraft instance's resourcepack directory.
+
+## Textures
+Textures can be made using any software though free software such as GIMP is prefered. The project files should be put into their respective folders inside the `src` folder.
+
+## Models
+3D models are made using Blockbench. The project files should be saved into `src/models` folder in case they need to be adjusted in the future.
