@@ -24,7 +24,7 @@ The latest stable release is available on the [Releases](https://github.com/waev
 If you want to try the development version of the pack you can clone/download the repository and put the pack folders into your Minecraft instance's resourcepack directory.
 
 ## Textures
-Textures can be made using any software though free software such as GIMP is prefered. The project files should be put into their respective folders inside the `src` folder.
+Textures can be made using any software though free software such as GIMP is preferred. The project files should be put into their respective folders inside the `src` folder.
 
 ## Models
 3D models are made using [Blockbench](https://www.blockbench.net/). The project files should be saved into `src/models` folder in case they need to be adjusted in the future.
