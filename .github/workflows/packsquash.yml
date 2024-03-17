@@ -2,10 +2,10 @@ name: Optimize resource pack
 on:
   push:
     tags:
-      - "**"
+      - "v*"
 jobs:
-  packsquash-waepack:
-    name: Optimize waepack
+  packsquash:
+    name: Optimize resource pack
     runs-on: ubuntu-latest
     steps:
       - name: Clone repository
@@ -19,14 +19,6 @@ jobs:
           options: |
             pack_directory = 'waepack'
             output_file_path = '/tmp/waepack-${{ github.ref_name }}.zip'
-  packsquash-waepack-models:
-    name: Optimize waepack-models
-    runs-on: ubuntu-latest
-    steps:
-      - name: Clone repository
-        uses: actions/checkout@v4
-        with:
-          fetch-depth: 0 # A non-shallow repository clone is required
       - name: Run PackSquash (waepack-models)
         uses: ComunidadAylas/PackSquash-action@v4
         with:
@@ -34,13 +26,8 @@ jobs:
           options: |
             pack_directory = 'waepack-models'
             output_file_path = '/tmp/waepack-models-${{ github.ref_name }}.zip'
-  create-release:
-    name: Create release
-    needs: [packsquash-waepack, packsquash-waepack-models]
-    runs-on: ubuntu-latest
-    steps:
       - name: Create release
-        uses: softprops/action-gh-release@v1
+        uses: softprops/action-gh-release@v2
         with:
           files: |
             /tmp/waepack-${{ github.ref_name }}.zip
