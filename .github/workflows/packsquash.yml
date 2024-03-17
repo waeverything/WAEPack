@@ -19,7 +19,7 @@ jobs:
           options: |
             pack_directory = 'waepack'
             output_file_path = '/tmp/waepack-${{ github.ref_name }}.zip'
-            artifact_name = 'waepack-${{ github.ref_name }}.zip'
+          artifact_name: 'waepack-${{ github.ref_name }}.zip'
       - name: Run PackSquash (waepack-models)
         uses: ComunidadAylas/PackSquash-action@v4
         with:
@@ -27,7 +27,7 @@ jobs:
           options: |
             pack_directory = 'waepack-models'
             output_file_path = '/tmp/waepack-models-${{ github.ref_name }}.zip'
-            artifact_name = 'waepack-models-${{ github.ref_name }}.zip'
+          artifact_name: 'waepack-models-${{ github.ref_name }}.zip'
       - name: Create release
         uses: softprops/action-gh-release@v2
         with:
