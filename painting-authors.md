@@ -1,8 +1,11 @@
 ### Painters
-- Jipsu97
-- Pavex
-- J0P
+- Jipsu97 - Pinkki Creepperi (graham)
+- Pavex - Happy Pepe (match)
+- J0P - Nope (burning_skull)
+- FabianAdrian - The Sword of Daggers (void)
+- J3-rmu - BSOD (kebab)
 
 ### Meme lords
-- Joona
-- Jeeukko
+- Joona - Horge (fire)
+- Joona - Wisdom (earth)
+- Jeeukko Ananasa (wind)
