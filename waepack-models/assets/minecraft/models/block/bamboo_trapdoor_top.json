@@ -59,8 +59,8 @@
 			"from": [3, 14, 3],
 			"to": [13, 15, 13],
 			"faces": {
-				"up": {"uv": [3, 3, 13, 13], "rotation": 90, "texture": "#2"},
-				"down": {"uv": [3, 3, 13, 13], "rotation": 90, "texture": "#2"}
+				"up": {"uv": [3, 3, 13, 13], "rotation": 180, "texture": "#2"},
+				"down": {"uv": [3, 3, 13, 13], "rotation": 0, "texture": "#2"}
 			}
 		}
 	],

@@ -2,8 +2,8 @@
 	"credit": "Made with Blockbench",
 	"parent": "item/trapdoor",
 	"textures": {
-		"2": "block/warped_trapdoor",
-		"particle": "block/warped_trapdoor"
+		"2": "block/jungle_trapdoor",
+		"particle": "block/jungle_trapdoor"
 	},
 	"elements": [
 		{
