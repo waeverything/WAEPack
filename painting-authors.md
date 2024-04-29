@@ -8,4 +8,4 @@
 ### Meme lords
 - Joona - Horge (fire)
 - Joona - Wisdom (earth)
-- Jeeukko Ananasa (wind)
+- Jeeukko - Ananasa (wind)
