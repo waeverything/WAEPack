@@ -29,6 +29,9 @@
   "item.minecraft.music_disc_strad": "Music Tape",
   "item.minecraft.music_disc_wait": "Music Tape",
   "item.minecraft.music_disc_ward": "Music Tape",
+  "item.minecraft.music_disc_creator": "Music Tape",
+  "item.minecraft.music_disc_creator_music_box": "Music Tape",
+  "item.minecraft.music_disc_precipice": "Music Tape",
   "item.minecraft.disc_fragment_5.desc": "Music Tape - 5",
   "item.minecraft.disc_fragment_5": "Piece of Tape",
   "item.minecraft.netherite_axe": "Wishkars Axe",
@@ -36,5 +39,6 @@
   "item.minecraft.netherite_pickaxe": "Wishkars Pickaxe",
   "item.minecraft.netherite_shovel": "Wishkars Shovel",
   "item.minecraft.netherite_sword": "Wishkars Sword"
+
   
 }
