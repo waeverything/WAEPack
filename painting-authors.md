@@ -4,6 +4,7 @@
 - J0P - Nope (burning_skull)
 - FabianAdrian - The Sword of Daggers (void)
 - J3-rmu - BSOD (kebab)
+- Kiklato - Family (alban)
 
 ### Meme lords
 - Joona - Horge (fire)
