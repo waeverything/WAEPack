@@ -1,0 +1,7 @@
+{
+	"parent": "block/oak_trapdoor_open",
+	"textures": {
+		"0": "block/pale_oak_trapdoor",
+		"particle": "block/pale_oak_trapdoor"
+	}
+}
