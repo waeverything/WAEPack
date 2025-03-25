@@ -1,6 +1,7 @@
 {
 	"textures": {
-		"texture": "minecraft:block/chiseled_bookshelf_occupied"
+		"texture": "minecraft:block/chiseled_bookshelf_occupied",
+		"particle": "block/chiseled_bookshelf_empty"
 	},
 	"elements": [
 		{	"from": [6, 9, 1],

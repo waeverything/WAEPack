@@ -2,7 +2,8 @@
 	"credit": "Made with Blockbench",
 	"textures": {
 		"book_cover": "block/chiseled_bookshelf_occupied",
-		"page": "block/page"
+		"page": "block/page",
+		"particle": "block/chiseled_bookshelf_empty"
 	},
 	"elements": [
 		{
