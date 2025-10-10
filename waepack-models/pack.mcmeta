@@ -1,6 +1,7 @@
 {
   "pack": {
-    "pack_format": 64,
-    "description": "WAEPack Models - 3D block variations"
+    "description": "WAEPack Models - 3D block variations",
+    "min_format": 69,
+    "max_format": 69
   }
 }
